@@ -5,3 +5,6 @@ Dashboard:
 
 Chatbot:
 ![Chatbot](https://github.com/user-attachments/assets/57430d47-0980-4f07-bf0e-fbe519f6b4d5)
+
+ User Behavior Analysis Dashboard:
+ ![photo_2025-12-30_11-35-36](https://github.com/user-attachments/assets/246d839d-22ea-48d5-8447-39d4162e3264)
