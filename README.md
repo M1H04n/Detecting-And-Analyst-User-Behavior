@@ -8,7 +8,7 @@
 
 A Security Operations Center (SOC) chatbot for analyzing User and Entity Behavior Analytics (UEBA) alerts with AI-powered insights.
 
-## ✨ Features
+## Features
 
 - 🔍 **UEBA Alert Analysis** - Analyze security alerts with machine learning
 - 💬 **AI Chatbot** - Natural language interaction for alert investigation
@@ -17,7 +17,7 @@ A Security Operations Center (SOC) chatbot for analyzing User and Entity Behavio
 - 🎯 **False Positive Management** - Mark and track false positives
 - 📈 **Risk Scoring** - Automatic severity classification
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -55,7 +55,7 @@ A Security Operations Center (SOC) chatbot for analyzing User and Entity Behavio
    
    ⚠️ **Change the default password after first login!**
 
-## ⚙️ Configuration
+## Configuration
 
 ### Log Sources
 
@@ -72,7 +72,7 @@ Configure AI providers in **Settings → LLM**:
 - Google Gemini (recommended for free tier)
 - OpenRouter (multiple models available)
 
-## 📁 Directory Structure
+## Directory Structure
 
 ```
 soc-chatbot/
@@ -87,7 +87,7 @@ soc-chatbot/
 └── data/                 # Pipeline data
 ```
 
-## 🔧 Commands
+## Commands
 
 ```bash
 # Start all services
@@ -106,7 +106,7 @@ docker compose restart soc-chatbot
 docker compose down -v
 ```
 
-## 📊 Architecture
+## Architecture
 
 ```
 ┌─────────────────┐     ┌─────────────────┐
@@ -129,17 +129,26 @@ docker compose down -v
                                                └─────────────────┘
 ```
 
-## 🛡️ Security Notes
+## Security Notes
 
 - Change default passwords immediately after installation
 - Use strong, unique values for `MONGO_PASSWORD` and `SESSION_SECRET`
 - Keep API keys secure and never commit `.env` to version control
 - Consider using a reverse proxy (nginx) with HTTPS in production
 
-## 🤝 Support
+## Support
 
 For issues and feature requests, please open an issue on GitHub.
 
-## 📄 License
+## License
 
 MIT License - see [LICENSE](LICENSE) for details.
+
+## Dashboard
+<img width="1906" height="942" alt="Dashboard" src="https://github.com/user-attachments/assets/b8910b77-00eb-46ad-a961-27b3f8e2f454" />
+## Chatbot
+<img width="1906" height="942" alt="Chatbot" src="https://github.com/user-attachments/assets/6d0dce5b-8efd-4cca-85a4-fc3cbf132aa6" />
+## User Behavior Analyst
+<img width="1906" height="942" alt="Chatbot + User_Behavior_Analysis" src="https://github.com/user-attachments/assets/f382d59e-4395-4df0-8c96-b15bf6af20db" />
+
+
