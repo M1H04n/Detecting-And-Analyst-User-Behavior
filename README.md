@@ -13,7 +13,7 @@ All features are still in development. If you run into any bugs, please bear wit
 
 ## Features
 
-- **UEBA Alert Analysis** - Analyze security alerts with machine learning
+- **UEBA Alert Analysis** - Analyze security alerts with Deep Learning
 - **AI Chatbot** - Natural language interaction for alert investigation
 - **Interactive Dashboard** - Visualize alerts, trends, and user behaviors
 - **Multi-SIEM Support** - Connect to Graylog, Wazuh, QRadar
