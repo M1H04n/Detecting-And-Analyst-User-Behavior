@@ -25,8 +25,8 @@ All features are still in development. If you run into any bugs, please bear wit
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/M1H04n/Detecting-And-Analyst-User-Behavior.git
-   cd Detecting-And-Analyst-User-Behavior
+   git clone https://github.com/M1H04n/Detecting-And-Analyst-User-Behavior-Using-DeepLearing-And-LLM.git
+   cd Detecting-And-Analyst-User-Behavior-Using-DeepLearing-And-LLM
    ```
 
 2. **Configure environment:**
